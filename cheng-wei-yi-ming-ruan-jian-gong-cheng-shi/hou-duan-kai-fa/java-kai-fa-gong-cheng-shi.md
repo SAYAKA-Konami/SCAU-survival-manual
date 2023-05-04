@@ -1,5 +1,5 @@
 ---
-description: Java是世界上最好的语言！
+description: Write Once, Run anywhere.
 ---
 
 # Java开发工程师
