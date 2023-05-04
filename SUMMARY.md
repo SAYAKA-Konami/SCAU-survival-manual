@@ -5,6 +5,7 @@
 ## Welcome
 
 * [欢迎来到数信学院](welcome/huan-ying-lai-dao-shu-xin-xue-yuan.md)
+* [什么是学习](welcome/shi-mo-shi-xue-xi.md)
 
 ## 就业导航
 
@@ -13,7 +14,6 @@
 
 ***
 
-* [什么是学习](shi-mo-shi-xue-xi.md)
 * [成为一名软件工程师](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/README.md)
   * [你需要学什么](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/ni-xu-yao-xue-shi-mo.md)
   * [你需要在意什么](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/ni-xu-yao-zai-yi-shi-mo.md)
@@ -22,3 +22,7 @@
     * [Java开发工程师](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/hou-duan-kai-fa/java-kai-fa-gong-cheng-shi.md)
   * [前端开发](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/qian-duan-kai-fa.md)
   * [游戏开发](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/you-xi-kai-fa.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
