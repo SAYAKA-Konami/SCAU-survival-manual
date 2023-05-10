@@ -12,9 +12,9 @@ description: Write Once, Run anywhere.
 
 ![](../../.gitbook/assets/image.png)
 
-1. 认识并能使用常见的JDK封装的数据结构。e.g. List Set Map 接口下的各个数据结构
-2. 关键字的使用、含义。 e.g. synchronize [volatile ](https://www.baeldung.com/java-volatile)final static&#x20;
-3. 并发编程相关的工具类。 e.g. Object的wait、notify方法 ReentrantLock [CountDownLatch ](https://leetcode.cn/problems/print-foobar-alternately/solutions/)[Semaphore ](https://leetcode.cn/problems/print-foobar-alternately/solutions/)[CyclicBarrier ](https://leetcode.cn/problems/print-foobar-alternately/solutions/)
+1. 认识并能使用常见的JDK封装的数据结构。e.g. List Set Map 接口下的各个数据结构。
+2. 关键字的使用、含义。 e.g. synchronize [volatile ](https://www.baeldung.com/java-volatile)final static 。
+3. 并发编程相关的工具类。 e.g. Object的wait、notify方法 ；ReentrantLock [CountDownLatch ](https://leetcode.cn/problems/print-foobar-alternately/solutions/)[Semaphore ](https://leetcode.cn/problems/print-foobar-alternately/solutions/)[CyclicBarrier ](https://leetcode.cn/problems/print-foobar-alternately/solutions/)
 4. 常见设计模式：单例（懒/饿汉、Double check、内部类）、策略、工厂。
 
 以下了解即可（如果能掌握更好）
