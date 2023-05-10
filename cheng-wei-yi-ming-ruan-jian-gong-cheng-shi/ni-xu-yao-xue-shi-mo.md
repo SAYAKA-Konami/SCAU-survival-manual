@@ -32,11 +32,11 @@ description: 你将会和高三一样艰辛
 
 你应该对自己做一个评估之后再从以下几个方案中选取一个进行：
 
-1. CSAPP，俗称的黑书。可以配合CMU（卡耐基梅隆）的公开课食用。你可以到[这里](https://www.simtoco.com/#/albums?id=1000043)购买人肉翻译后的课程。
-2. 南京大学[绿老师的OS课程](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=7f359d4e8fc4063c37805ed610ac18ff)（配套书籍：操作系统导论（OSTEP）/ [课程讲义](http://jyywiki.cn/OS/2022/)
+1. 南京大学[绿老师的OS课程](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=7f359d4e8fc4063c37805ed610ac18ff)（配套书籍：操作系统导论（OSTEP）/ [课程讲义](http://jyywiki.cn/OS/2022/)
+2. CSAPP，俗称的黑书。可以配合CMU（卡耐基梅隆）的公开课食用。你可以到[这里](https://www.simtoco.com/#/albums?id=1000043)购买人肉翻译后的课程。
 3. 你也可以学习[MIT](https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/)的课程
 
-上述三个方案都需要你投入大量的精力和毅力完成他们对应的lab
+上述三个方案都需要你投入大量的精力和毅力完成他们对应的lab。（lab的难度从上至下递增）
 
 需要注意的是，不论你选择了上述三个课程中的哪一个，你都必须做好心理准备。学习总是痛苦的，更何况你在大多数情况下都只会是孤身一人。你能依靠的只有你自己和谷歌浏览器（也许还会有new bing和GPT）😶‍🌫️
 
