@@ -26,3 +26,8 @@
 ## 公务员
 
 * [TO  Be Contiune...](gong-wu-yuan/to-be-contiune....md)
+
+## 升学导航
+
+* [考研](sheng-xue-dao-hang/kao-yan.md)
+* [保研](sheng-xue-dao-hang/bao-yan.md)
