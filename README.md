@@ -10,6 +10,8 @@ description: 起缘
 
 涉及的很多观点和建议都是本人大学四年期间的所思所悟，主观性较强。由于个人视野有限，本手册的着重点会在本校的数信学院上。如果你有不同的见解和建议的话，欢迎你在该项目的[issue](https://github.com/SAYAKA-Konami/SCAU-survival-manual)中提出或者直接致信katohuge@outlook.com。
 
+如果你觉得有帮助的话，可以在本手册对应的[项目](https://github.com/SAYAKA-Konami/SCAU-survival-manual)上点个star🥳。
+
 ## 序
 
 我已经失眠很多天了，本想着等一切尘埃落定之后再起草该项目。但实在抗拒不住内心的呐喊，在床上躺到凌晨4点之后毅然起身动笔。
