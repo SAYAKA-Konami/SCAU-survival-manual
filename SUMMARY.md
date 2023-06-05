@@ -31,3 +31,7 @@
 
 * [考研](sheng-xue-dao-hang/kao-yan.md)
 * [保研](sheng-xue-dao-hang/bao-yan.md)
+
+## 访谈集
+
+* [保研者说](fang-tan-ji/bao-yan-zhe-shuo.md)
