@@ -17,6 +17,7 @@
 * [成为一名软件工程师](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/README.md)
   * [你需要学什么](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/ni-xu-yao-xue-shi-mo.md)
   * [你需要在意什么](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/ni-xu-yao-zai-yi-shi-mo.md)
+  * [有什么活动可以参加](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/you-shi-mo-huo-dong-ke-yi-can-jia.md)
   * [购买你劳动力的客体在意什么](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/gou-mai-ni-lao-dong-li-de-ke-ti-zai-yi-shi-mo.md)
   * [后端开发](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/hou-duan-kai-fa/README.md)
     * [Java开发工程师](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/hou-duan-kai-fa/java-kai-fa-gong-cheng-shi.md)
