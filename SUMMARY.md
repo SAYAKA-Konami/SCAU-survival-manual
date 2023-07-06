@@ -36,3 +36,4 @@
 ## 访谈集
 
 * [保研者说](fang-tan-ji/bao-yan-zhe-shuo.md)
+* [考公的人](fang-tan-ji/kao-gong-de-ren.md)
