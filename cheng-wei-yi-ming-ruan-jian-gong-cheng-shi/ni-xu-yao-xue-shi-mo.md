@@ -8,7 +8,7 @@ description: 你将会和高三一样艰辛
 
 如果可以，扎实基础以便更好的应付这个职业。
 
-另外，你能看到这里其实已经隐含了一个前提。如果没有的话，以下是一个可靠的[机场](https://www.linghunyun.com/#/register?code=Syo2XhdS)。
+另外，你能看到这里其实已经隐含了一个前提。如果你只是误打误撞进到本页面的话，这是一个可靠的[机场](https://www.linghunyun.com/#/register?code=Syo2XhdS)（逃
 
 ## 英语
 
