@@ -12,6 +12,7 @@
 * [关于专业](jiu-ye-dao-hang/guan-yu-zhuan-ye/README.md)
   * [信息管理与信息系统](jiu-ye-dao-hang/guan-yu-zhuan-ye/xin-xi-guan-li-yu-xin-xi-xi-tong.md)
   * [大数据科学与技术](jiu-ye-dao-hang/guan-yu-zhuan-ye/da-shu-ju-ke-xue-yu-ji-shu.md)
+* [实习](jiu-ye-dao-hang/shi-xi.md)
 
 ***
 
@@ -24,7 +25,6 @@
     * [Java开发工程师](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/hou-duan-kai-fa/java-kai-fa-gong-cheng-shi.md)
   * [前端开发](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/qian-duan-kai-fa.md)
   * [游戏开发](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/you-xi-kai-fa.md)
-  * [实习](cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/shi-xi.md)
 
 ## 公务员
 
