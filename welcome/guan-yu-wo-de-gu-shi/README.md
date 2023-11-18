@@ -60,7 +60,7 @@ PS：两个公司均不怎么加班。
 
 <mark style="background-color:red;">二次毕业</mark>
 
-5月份在HR的要求下我便先到xxx实习。7月份拿到毕业证书之后才签署的劳动合同正式的开始试用期。在此期间，在脉脉上看到的关于xxx这家公司的言论都一 一浮现：不加班、公司像网吧、业务线不稳定等等。
+5月份在HR的要求下我便先到荔枝实习。7月份拿到毕业证书之后才签署的劳动合同正式的开始试用期。在此期间，在脉脉上看到的关于荔枝这家公司的言论都一 一浮现：不加班、公司像网吧、业务线不稳定等等。
 
 从实习到毕业期间我统共被**更换**了三个组。
 
@@ -84,13 +84,9 @@ PS：两个公司均不怎么加班。
 
 目前我尚未清楚接下来该怎么办这件事，但是可以肯定的是仅仅两个月的时间我在**社会大学**就给上了几门课。
 
-要是用《让子弹飞》里面的台词来说的话我想最贴切的应该是：**冤！不是我冤，是武举老爷冤！**
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>附图1</p></figcaption></figure>
 
-换做是《邪不压正》里面的台词来说的话我想应该是：**兄弟们，还是那句话，邪不压正，邪不压正！**
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>附图1</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>附图2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>附图2</p></figcaption></figure>
 
 ***
 

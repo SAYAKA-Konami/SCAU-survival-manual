@@ -10,7 +10,7 @@ description: Write Once, Run anywhere.
 
 <mark style="background-color:orange;">可以参考本项目附录中的《onJava8》一书。</mark>
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 1. 认识并能使用常见的JDK封装的数据结构。e.g. List Set Map 接口下的各个数据结构。
 2. 关键字的使用、含义。 e.g. synchronize [volatile ](https://www.baeldung.com/java-volatile)final static 。

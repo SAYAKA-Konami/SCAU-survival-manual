@@ -6,7 +6,8 @@
 
 * [欢迎来到数信学院](welcome/huan-ying-lai-dao-shu-xin-xue-yuan.md)
 * [什么是学习](shi-mo-shi-xue-xi.md)
-* [关于我的故事](welcome/guan-yu-wo-de-gu-shi.md)
+* [关于我的故事](welcome/guan-yu-wo-de-gu-shi/README.md)
+  * [我所走过的路](welcome/guan-yu-wo-de-gu-shi/wo-suo-zou-guo-de-lu.md)
 
 ## 就业导航
 
