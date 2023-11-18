@@ -8,6 +8,7 @@
 * [什么是学习](shi-mo-shi-xue-xi.md)
 * [关于我的故事](welcome/guan-yu-wo-de-gu-shi/README.md)
   * [我所走过的路](welcome/guan-yu-wo-de-gu-shi/wo-suo-zou-guo-de-lu.md)
+  * [二次毕业之后](welcome/guan-yu-wo-de-gu-shi/er-ci-bi-ye-zhi-hou.md)
 
 ## 就业导航
 
