@@ -10,7 +10,7 @@ description: 所谓的信息差
 
 赞助商会提供资金奖励（2023年分为两个档：8000、12000）中选并完成的项目。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>图 1:2022年参加的大学统计表</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>图 1:2022年参加的大学统计表</p></figcaption></figure>
 
 需要注意的是上图的数据只是代表申请者所在的学校，并不是最终中选的学生所在的学校。
 
