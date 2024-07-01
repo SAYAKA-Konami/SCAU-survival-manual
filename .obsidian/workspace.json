@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "f75de62166c1865d",
+    "type": "split",
+    "children": [
+      {
+        "id": "29bb9e32d53adcc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10eccaedb27365e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "welcome/guan-yu-wo-de-gu-shi/er-ci-bi-ye-zhi-hou.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5aebd3af27c42157",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8167dacf85c1ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65659fd203642a15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8472863e1b8e86a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09b269d730a9c469",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bfc3fe6d3fd0761",
+    "type": "split",
+    "children": [
+      {
+        "id": "633d7aa7a05d30cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6757e36f2d287dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "welcome/guan-yu-wo-de-gu-shi/er-ci-bi-ye-zhi-hou.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc5116853d44ca18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "welcome/guan-yu-wo-de-gu-shi/er-ci-bi-ye-zhi-hou.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0e323305e2c2650",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "427463aa7ac56123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "welcome/guan-yu-wo-de-gu-shi/er-ci-bi-ye-zhi-hou.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e10eccaedb27365e",
+  "lastOpenFiles": [
+    "SUMMARY.md",
+    "gong-wu-yuan/to-be-contiune....md",
+    "shi-mo-shi-xue-xi.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/gou-mai-ni-lao-dong-li-de-ke-ti-zai-yi-shi-mo.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/ni-xu-yao-xue-shi-mo.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/ni-xu-yao-zai-yi-shi-mo.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/you-xi-kai-fa.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/you-shi-mo-huo-dong-ke-yi-can-jia.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/qian-duan-kai-fa.md",
+    "cheng-wei-yi-ming-ruan-jian-gong-cheng-shi/README.md",
+    "fang-tan-ji/bao-yan-zhe-shuo.md",
+    "fang-tan-ji/kao-gong-de-ren.md",
+    "jiu-ye-dao-hang/guan-yu-zhuan-ye/README.md",
+    "sheng-xue-dao-hang/liu-xue.md",
+    "sheng-xue-dao-hang/kao-yan.md",
+    "sheng-xue-dao-hang/bao-yan.md",
+    "jiu-ye-dao-hang/shi-xi.md",
+    "jiu-ye-dao-hang/guan-yu-zhuan-ye/xin-xi-guan-li-yu-xin-xi-xi-tong.md",
+    "jiu-ye-dao-hang/guan-yu-zhuan-ye/da-shu-ju-ke-xue-yu-ji-shu.md"
+  ]
+}
